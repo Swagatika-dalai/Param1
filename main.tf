@@ -1,6 +1,4 @@
-terraform {
-required_version = "= 3.7.1"
-}
+
 
 provider "aws" {
   region  = var.region
