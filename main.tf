@@ -6,7 +6,7 @@ provider "aws" {
 
 
 resource "aws_s3_bucket" "b" {
-  bucket = "swa53daooookk965fvgafk"
+  bucket = "sw6bakin9kk965fvgafk"
   
 
   tags = {
